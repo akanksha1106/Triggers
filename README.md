@@ -62,7 +62,7 @@ This audit table stores details like:
    DELETE FROM employees WHERE emp_id = 1;
    ```
 
-5. **Viewed the Audit Log**
+5. Viewed the Audit Log
 
    ```sql
    SELECT * FROM employee_audit;
