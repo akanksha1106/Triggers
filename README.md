@@ -1,5 +1,5 @@
 # Triggers
-# Develop Triggers for Auditing Table Changes**
+# Develop Triggers for Auditing Table Changes
 
 - WHAT I BUILT
 
